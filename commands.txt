@@ -1,6 +1,8 @@
 commands 
 git clone remote_path ( to get the remote path)
 git add -A 
-git comit -m "Your message"
+git commit -m "Your message"
 git push  origin main/master
+git status
+
 
